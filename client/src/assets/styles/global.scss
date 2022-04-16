@@ -1,0 +1,119 @@
+:root {
+  // Colors
+  --color-primary: #ff5a5f;
+  --color-primary-1: #ff7777;
+  --color-primary-2: #aed8a2;
+  --color-primary-3: #7cd7ee;
+  --color-primary-4: #ffcc79;
+  --color-primary-5: #c879ff;
+  --color-primary-6: #edb0d3;
+  --color-primary-7: #a4dfdb;
+  --color-bg-light: #f2f7ff;
+  --color-white: #fff;
+  --color-text-heading: #222;
+  --color-text-body: #484848;
+  --color-text-paragraph: #767676;
+  --color-text-subtitle: #9ba2a4;
+  --color-shadow: #e6e6e6;
+  // App Colors
+  --color-bg-nav: #f4f5fa;
+  --color-bg-nav-item: #fefeff;
+  --color-nav-item-text: #9c9c9c;
+  --color-light-gray: #f3f3f3;
+  // Fonts
+  --font-heading1: 600 4.8rem/6rem Montserrat;
+  --font-heading2: 500 3.6rem/4rem Montserrat;
+  --font-heading3: 400 2.8rem/3.2rem Montserrat;
+  --font-large: 400 2.4rem/2.9rem Brandon;
+  --font-regular: 400 2.2rem/2.7rem Brandon;
+  --font-small: 400 1.8rem/2.2rem Brandon;
+  --font-smaller: 200 1.4rem/1.6rem Brandon;
+  --font-tiny: 200 1rem/1.2rem Brandon;
+  // spacing
+  --spacing-none: 0;
+  --spacing-tiny: 0.8rem;
+  --spacing-small: 1.6rem;
+  --spacing-base: 2.4rem;
+  --spacing-large: 4.8rem;
+  --spacing-xlarge: 6.4rem;
+  --box-shadow: 6px 6px 11px var(--color-shadow),
+    -6px -6px 15px var(--color-white);
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@font-face {
+  font-family: Brandon;
+  font-weight: 400;
+  src: url('../fonts/brandon-regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: Brandon;
+  font-weight: 500;
+  src: url('../fonts/brandon-medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: Montserrat;
+  font-weight: 300;
+  src: url('../fonts/Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Montserrat;
+  font-weight: 400;
+  src: url('../fonts/Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Montserrat;
+  font-weight: 500;
+  src: url('../fonts/Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Montserrat;
+  font-weight: 600;
+  src: url('../fonts/SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Montserrat;
+  font-weight: 700;
+  src: url('../fonts/Bold.ttf') format('truetype');
+}
+
+html {
+  font-family: 'Brandon', sans-serif;
+  font-size: 62.5%;
+  min-height: 100vh;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+ul,
+p {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}

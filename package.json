@@ -1,0 +1,36 @@
+{
+  "name": "horae",
+  "version": "1.0.0",
+  "description": "CSE 110 Group H project",
+  "main": "server.js",
+  "repository": "https://github.com/kartmanny/Horae",
+  "author": "kartmanny",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@types/date-fns": "^2.6.0",
+    "@types/react-beautiful-dnd": "^12.1.2",
+    "@types/react-router-dom": "^5.1.5",
+    "body-parser": "^1.19.0",
+    "concurrently": "^5.2.0",
+    "date-fns": "^2.14.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "firebase": "^7.14.5",
+    "morgan": "^1.10.0",
+    "react-beautiful-dnd": "^13.0.0",
+    "react-router-dom": "^5.1.2"
+  },
+  "scripts": {
+    "client-install": "yarn --cwd client start",
+    "server": "cd server && nodemon server.js",
+    "client": "yarn --cwd client start",
+    "dev": "concurrently \"yarn run server\" \"yarn run client\"",
+    "start": "cd server && node server.js",
+    "heroku-postbuild": "cd client && npm install && npm run build"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3",
+    "typescript": "^3.8.3"
+  }
+}

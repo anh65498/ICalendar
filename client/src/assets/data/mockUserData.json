@@ -1,0 +1,480 @@
+{
+  "id": "52ef76a8-87fd-4f73-bcb0-9a25171c463c",
+  "email": "jdoe@gmail.com",
+  "calendars": [
+    {
+      "id": "30999424-7e0c-406b-a614-b8d22d929e34",
+      "title": "CSE 110",
+      "settings": {
+        "color": "--color-primary-1"
+      },
+      "events": [
+        {
+          "id": "439c6142-e1fc-4534-b57e-e52d463e6d8b",
+          "name": "Lecture #1",
+          "description": "",
+          "date": "Wed May 13 2020 15:20:01 GMT-0700 (Pacific Daylight Time)",
+          "duration": 3,
+          "location": "ZOOM"
+        },
+        {
+          "id": "2ae3475c-d652-41b2-bb64-c815b59bd321",
+          "name": "Quiz #1",
+          "description": "",
+          "date": "Fri May 22 2020 15:29:18 GMT-0700 (Pacific Daylight Time)",
+          "duration": 9,
+          "location": "ZOOM"
+        },
+        {
+          "id": "6df3096b-b5b3-4470-bd1d-dbcef789b09e",
+          "name": "Lab #1",
+          "description": "",
+          "date": "Fri Jun 26 2020 12:21:39 GMT-0700 (Pacific Daylight Time)",
+          "duration": 5,
+          "location": "ZOOM"
+        },
+        {
+          "id": "c9ecbd2d-036a-4e68-a70a-a2ac3b1c0965",
+          "name": "Lecture #2",
+          "description": "",
+          "date": "Sat Jan 11 2020 08:04:16 GMT-0700 (Pacific Daylight Time)",
+          "duration": 3,
+          "location": "ZOOM"
+        },
+        {
+          "id": "8e7b6db8-5266-453d-ba59-12f51a9fdd94",
+          "name": "lab 2",
+          "description": "",
+          "date": "Wed May 27 2020 21:06:42 GMT-0700 (Pacific Daylight Time)",
+          "duration": 1,
+          "location": "ZOOM"
+        },
+        {
+          "id": "3dce9abb-5a93-4a65-80f3-47bf5b89a797",
+          "name": "Customer meeting 1",
+          "description": "",
+          "date": "Sat May 23 2020 08:05:12 GMT-0700 (Pacific Daylight Time)",
+          "duration": 1,
+          "location": "ZOOM"
+        },
+        {
+          "id": "8ca67622-056d-4a18-a7ba-6b145eac450c",
+          "name": "team meeting",
+          "description": "",
+          "date": "Tue Feb 18 2020 10:02:38 GMT-0700 (Pacific Daylight Time)",
+          "duration": 7,
+          "location": "ZOOM"
+        },
+        {
+          "id": "b4b71d6b-f91d-4d20-bf10-744ae439a336",
+          "name": "lab 3",
+          "description": "",
+          "date": "Mon Aug 10 2020 11:25:37 GMT-0700 (Pacific Daylight Time)",
+          "duration": 3,
+          "location": "ZOOM"
+        },
+        {
+          "id": "26bf70b0-4393-4f8d-94e8-1b60d98555a8",
+          "name": "quiz 1",
+          "description": "",
+          "date": "Wed Jan 22 2020 15:42:37 GMT-0700 (Pacific Daylight Time)",
+          "duration": 3,
+          "location": "ZOOM"
+        },
+        {
+          "id": "db8f0f47-f2b2-433f-aeae-fad3c0e4e6ab",
+          "name": "Customer meeting 2",
+          "description": "",
+          "date": "Sun Mar 08 2020 01:27:22 GMT-0700 (Pacific Daylight Time)",
+          "duration": 9,
+          "location": "ZOOM"
+        },
+        {
+          "id": "2f9b404f-ac72-42ce-894b-74c021ef9e64",
+          "name": "quiz 2",
+          "description": "",
+          "date": "Wed May 27 2020 02:56:28 GMT-0700 (Pacific Daylight Time)",
+          "duration": 7,
+          "location": "ZOOM"
+        },
+        {
+          "id": "5dae1eee-4e26-4429-b427-c8c2c4cdb8b2",
+          "name": "lecture 4",
+          "description": "",
+          "date": "Mon Sep 21 2020 02:14:05 GMT-0700 (Pacific Daylight Time)",
+          "duration": 7,
+          "location": "ZOOM"
+        },
+        {
+          "id": "e85bd719-c98c-48c6-98ee-1127291bf906",
+          "name": "team meeting",
+          "description": "",
+          "date": "Sat Mar 28 2020 07:37:02 GMT-0700 (Pacific Daylight Time)",
+          "duration": 7,
+          "location": "ZOOM"
+        },
+        {
+          "id": "7a1c0652-1105-48f7-a06c-3e21ec75a961",
+          "name": "lab 4",
+          "description": "",
+          "date": "Sun Dec 13 2020 14:10:57 GMT-0700 (Pacific Daylight Time)",
+          "duration": 3,
+          "location": "ZOOM"
+        },
+        {
+          "id": "a10b6971-7380-41e8-904c-76faba70eb1b",
+          "name": "team meeting",
+          "description": "",
+          "date": "Mon Nov 02 2020 19:05:24 GMT-0700 (Pacific Daylight Time)",
+          "duration": 3,
+          "location": "ZOOM"
+        },
+        {
+          "id": "78350f63-ba91-4fe3-93f4-764a273f62e7",
+          "name": "Customer meeting 6",
+          "description": "",
+          "date": "Tue Dec 08 2020 19:14:28 GMT-0700 (Pacific Daylight Time)",
+          "duration": 7,
+          "location": "ZOOM"
+        },
+        {
+          "id": "0c19901e-c606-4978-aacf-5086e75356cd",
+          "name": "lab 7",
+          "description": "",
+          "date": "Mon May 18 2020 21:57:28 GMT-0700 (Pacific Daylight Time)",
+          "duration": 7,
+          "location": "ZOOM"
+        },
+        {
+          "id": "d8bf3519-775b-4aeb-9fc0-c00ce9710ad1",
+          "name": "lab 8",
+          "description": "",
+          "date": "Mon Mar 23 2020 13:30:54 GMT-0700 (Pacific Daylight Time)",
+          "duration": 7,
+          "location": "ZOOM"
+        },
+        {
+          "id": "7c49bea6-de22-4b75-a114-15f2cc6a7177",
+          "name": "Final Project",
+          "description": "",
+          "date": "Tue Nov 10 2020 19:38:46 GMT-0700 (Pacific Daylight Time)",
+          "duration": 3,
+          "location": "ZOOM"
+        },
+        {
+          "id": "c59b5824-66ba-43a4-a11f-bb20ea24caec",
+          "name": "Final",
+          "description": "",
+          "date": "Sat Aug 01 2020 12:50:43 GMT-0700 (Pacific Daylight Time)",
+          "duration": 3,
+          "location": "ZOOM"
+        }
+      ]
+    }
+  ],
+  "todo_lists": [
+    {
+      "id": "f7194401-b6b4-4c82-ac5d-2bc39cd51b67",
+      "title": "Groceries",
+      "settings": {
+        "color": "--color-primary-7"
+      },
+      "tasks": [
+        {
+          "id": "ae0a3bb7-1a7f-4e04-98de-b15180c95e90",
+          "name": "Carrots",
+          "deadline": "Mar 20 2020",
+          "completed": true
+        },
+        {
+          "id": "3e3750d6-3801-49ef-b30d-dc2755854fda",
+          "name": "Peas",
+          "deadline": "Dec 29 2020",
+          "completed": true
+        },
+        {
+          "id": "1bd7ebe2-824c-4615-9d7d-79274626ce5a",
+          "name": "Milk",
+          "deadline": "Jun 16 2020",
+          "completed": false
+        },
+        {
+          "id": "60a2ff00-8e10-4642-a28e-8b59518fc124",
+          "name": "Chips",
+          "deadline": "Apr 06 2020",
+          "completed": false
+        },
+        {
+          "id": "4ba223f1-96ae-47ec-8ab2-ee55bfdf7d49",
+          "name": "Apples",
+          "deadline": "Jul 15 2020",
+          "completed": false
+        },
+        {
+          "id": "2fbb180f-af06-4286-987c-6e709e057232",
+          "name": "Bannanas",
+          "deadline": "Aug 10 2020",
+          "completed": false
+        },
+        {
+          "id": "c88a9c1e-8e70-4200-ae05-6f29a114a6de",
+          "name": "Ice Cream",
+          "deadline": "May 02 2020",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "f0d8dcc0-7095-4e20-9669-30d5d48d048b",
+      "title": "CSE 110",
+      "settings": {
+        "color": "--color-primary-6"
+      },
+      "tasks": [
+        {
+          "id": "2af1f3a0-0380-42d4-b800-3f3062e5bfb6",
+          "name": "User Stories",
+          "deadline": "Jul 24 2020",
+          "completed": false
+        },
+        {
+          "id": "5617964e-4a6a-41eb-b0b0-c47494474593",
+          "name": "Use Cases",
+          "deadline": "Aug 08 2020",
+          "completed": false
+        },
+        {
+          "id": "1ecd2886-ed65-4697-9beb-09909b8abe0b",
+          "name": "Database Schema",
+          "deadline": "Oct 23 2020",
+          "completed": true
+        },
+        {
+          "id": "c3f4bc14-61b0-4b0d-94f3-7e6876569593",
+          "name": "System Requirements",
+          "deadline": "Sep 12 2020",
+          "completed": false
+        },
+        {
+          "id": "82b48608-37d6-43b5-a12b-46e1cc9885b4",
+          "name": "Test Cases",
+          "deadline": "Jan 06 2020",
+          "completed": true
+        },
+        {
+          "id": "451bbb58-3845-46e8-83a9-a672f25c44f9",
+          "name": "Coding",
+          "deadline": "Feb 21 2020",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "e81c071c-68c3-45b7-bc0f-45053db474f7",
+      "title": "Workouts",
+      "settings": {
+        "color": "--color-primary-5"
+      },
+      "tasks": [
+        {
+          "id": "63db8fe3-48e5-472f-aa7d-4d50d05a4124",
+          "name": "Push-Up",
+          "deadline": "May 06 2020",
+          "completed": true
+        },
+        {
+          "id": "8e5d4528-d054-4d00-97ea-5d6f288dcd3b",
+          "name": "Sit-ups",
+          "deadline": "Dec 24 2020",
+          "completed": true
+        },
+        {
+          "id": "a1d3f22c-93fd-4938-af56-15da9eb9c9f2",
+          "name": "Plank",
+          "deadline": "Mar 03 2020",
+          "completed": true
+        },
+        {
+          "id": "29140755-ecb3-4f14-b711-a8a3ebc0fe36",
+          "name": "Squat",
+          "deadline": "Feb 12 2020",
+          "completed": false
+        },
+        {
+          "id": "6125d9a7-0336-4017-90f0-35b3f5a38dbc",
+          "name": "Burpee",
+          "deadline": "Jul 21 2020",
+          "completed": false
+        },
+        {
+          "id": "3038930f-cd4f-42ce-aa71-a3844b0f0fa1",
+          "name": "Lunge",
+          "deadline": "Dec 29 2020",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "87584b10-a4bd-44e4-a8fb-b657d1855660",
+      "title": "Shopping",
+      "settings": {
+        "color": "--color-primary-4"
+      },
+      "tasks": [
+        {
+          "id": "e8c35b04-0cdf-4006-abf3-e8ba4a3e5770",
+          "name": "Shirts",
+          "deadline": "May 11 2020",
+          "completed": true
+        },
+        {
+          "id": "cce59330-607f-4e2e-863e-00309499a6c0",
+          "name": "Pants",
+          "deadline": "Jul 04 2020",
+          "completed": true
+        },
+        {
+          "id": "f835d79a-225c-4c66-b2a1-a17f357b7d17",
+          "name": "Shoes",
+          "deadline": "Feb 28 2020",
+          "completed": false
+        },
+        {
+          "id": "f5ad0cfe-0f7d-45f3-ba3d-bc4702dc28cf",
+          "name": "Blender",
+          "deadline": "Apr 16 2020",
+          "completed": true
+        },
+        {
+          "id": "dabc8911-7f82-4950-8ad3-e0d5368bc2db",
+          "name": "Toaster",
+          "deadline": "Apr 11 2020",
+          "completed": false
+        },
+        {
+          "id": "25737da0-abf8-4320-814e-5470f77a3e48",
+          "name": " Belt",
+          "deadline": "Mar 02 2020",
+          "completed": false
+        },
+        {
+          "id": "979f92f7-d17d-42b3-b786-29f612c501c8",
+          "name": "Birthday Card",
+          "deadline": "Apr 23 2020",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": "015beebd-6553-4676-a7fd-aed3ee90764b",
+      "title": "Landmarks to see",
+      "settings": {
+        "color": "--color-primary-3"
+      },
+      "tasks": [
+        {
+          "id": "c00c5bf2-2971-4213-96a1-c18912d91804",
+          "name": "Emipire State Building",
+          "deadline": "Mar 06 2020",
+          "completed": true
+        },
+        {
+          "id": "ecc9f099-ad76-4245-9769-6be63dc6c92c",
+          "name": "Mount Rushmore",
+          "deadline": "Jul 06 2020",
+          "completed": false
+        },
+        {
+          "id": "ab6a6170-5c75-4a2c-9311-7e5d259ac99e",
+          "name": "Eiffle Tower",
+          "deadline": "Sep 02 2020",
+          "completed": false
+        },
+        {
+          "id": "c7256723-8c09-4442-ac4d-bb48172d2574",
+          "name": "The Great Wall",
+          "deadline": "Oct 24 2020",
+          "completed": false
+        },
+        {
+          "id": "5b1af45c-a62e-49c8-9af0-ebc2b85e8edd",
+          "name": "The Great Pramid of Giza",
+          "deadline": "Nov 10 2020",
+          "completed": true
+        },
+        {
+          "id": "33044994-d8c2-4dc1-adef-ff1c60fd369f",
+          "name": "Bannanas",
+          "deadline": "Sep 18 2020",
+          "completed": true
+        },
+        {
+          "id": "c349f308-8203-4017-bb69-70dc60db0856",
+          "name": "Ice Cream",
+          "deadline": "Nov 01 2020",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "a13a06ce-9745-4230-8f2d-5bcb5d9ff513",
+      "title": "Albums",
+      "settings": {
+        "color": "--color-primary-2"
+      },
+      "tasks": [
+        {
+          "id": "922d7477-4d59-4439-9473-a19f4fa85dea",
+          "name": "Thriller",
+          "deadline": "Aug 26 2020",
+          "completed": false
+        },
+        {
+          "id": "13df2223-f510-48d8-af47-f6c62a33fe98",
+          "name": "Back in Black",
+          "deadline": "Mar 01 2020",
+          "completed": true
+        },
+        {
+          "id": "9278c39b-cb53-4d8e-abd0-7de7cc2de0bd",
+          "name": "The Dark Side of the Moon",
+          "deadline": "Mar 05 2020",
+          "completed": true
+        },
+        {
+          "id": "c2644f76-052a-4989-ac84-af62b6a64553",
+          "name": "Grease Soundtrack",
+          "deadline": "May 06 2020",
+          "completed": true
+        },
+        {
+          "id": "ebb67de2-2819-44a2-93c0-c0fc02749139",
+          "name": "Abby Road",
+          "deadline": "Aug 15 2020",
+          "completed": true
+        },
+        {
+          "id": "cf2f70c8-6dfa-4114-864a-7f2751db0a6d",
+          "name": "Hotel California",
+          "deadline": "Apr 28 2020",
+          "completed": true
+        },
+        {
+          "id": "078e6c93-fcce-4a6a-bc47-8e30b3b0f529",
+          "name": "Sgt. Pepper's Lonely Hearts Club Band",
+          "deadline": "Jul 16 2020",
+          "completed": true
+        }
+      ]
+    }
+  ],
+  "avatar": {
+    "hair": -1,
+    "hats": -1,
+    "bottoms": -1,
+    "tops": -1,
+    "shoes": -1,
+    "facialHair": -1,
+    "accessories": -1
+  }
+}
