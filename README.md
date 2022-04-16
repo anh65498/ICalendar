@@ -9,13 +9,13 @@ npm -g install yarn
 ### Then clone the repo:
 
 ```
-git clone https://github.com/kartmanny/Horae.git
+git clone https://github.com/anh65498/ICalendar
 ```
 
 ### Installing dependencies for the server side:
 
 ```
-cd Horae
+cd ICalendar
 yarn
 ```
 
